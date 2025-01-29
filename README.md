@@ -28,7 +28,7 @@
 - [AssertJ](https://github.com/assertj/assertj)
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/)
 - [Jacoco](https://github.com/jacoco/jacoco) cobertura de codigo
-- [Pitest](https://pitest.org) Para tests mutantes
+- [Pitest](https://pitest.org) Para tests mutantes [artigo usado para se basear na versão do pitest](https://dev.to/diegobrandao/testes-mutantes-com-pitest-2d6j)
 
 ## 💻 Projeto
 
