@@ -3,9 +3,6 @@ package br.com.sobreiraromulo.starwar_planet_api;
 import static br.com.sobreiraromulo.starwar_planet_api.common.PlanetConstants.PLANET;
 import static br.com.sobreiraromulo.starwar_planet_api.common.PlanetConstants.TATOOINE;
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.mockito.ArgumentMatchers.same;
-
-import java.util.List;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
