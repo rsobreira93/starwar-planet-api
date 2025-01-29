@@ -27,8 +27,8 @@
 - [Mockito](https://site.mockito.org)
 - [AssertJ](https://github.com/assertj/assertj)
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/)
-- [Jacoco](https://github.com/jacoco/jacoco)
-- [Pitest](https://pitest.org)
+- [Jacoco](https://github.com/jacoco/jacoco) cobertura de codigo
+- [Pitest](https://pitest.org) Para tests mutantes
 
 ## 💻 Projeto
 
